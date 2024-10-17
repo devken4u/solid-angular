@@ -173,3 +173,5 @@ It is easier to understand this if you know what abstract classes and methods ar
     }
 
 The idea with this principle is that our application would depend on Math which is just an abstraction. We could then provide whatever implementation of that we want.
+
+Reference: https://ionicstart.com/modules/basics-application-architecture/2/
